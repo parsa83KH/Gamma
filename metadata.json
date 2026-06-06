@@ -1,0 +1,6 @@
+{
+  "name": "Invisible Spectral Flicker Presentation",
+  "description": "An interactive, beautifully animated infographic website and slide deck for a journal club presentation on 40 Hz gamma neural entrainment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
